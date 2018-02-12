@@ -1,4 +1,4 @@
-# StockPriceBackTester
+# Stock Price BackTester
 
 * A C# programme for lazy people to check their own stock strategy 
 
